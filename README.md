@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @QueenZulu
 - 👀 I’m interested in: Friends, Projects and Collaboration.
 - 🌱 I’m currently learning: Network and Cloud 
-- 💞️ I’m looking to collaborate: On JavaScript and AWS projects
+- 💞️ I’m looking to collaborate: On AWS projects
 - 📫 How to reach me:  queenettacherfils@gmail.com 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I'm open to learning new skills, and any idea or advice is welcome
